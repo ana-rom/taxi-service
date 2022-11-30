@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome to our Taxi Service, Mate!</h1>
-<h1 align="center"><img src="/Users/romanova/Downloads/main1.png"/></h1>
+<h1 align="center"><img src="img/main1.png"/></h1>
 
 
 ### ✨ Flexible and intuitively easy to use web application
@@ -54,4 +54,4 @@ If you have any questions related to installation process, or you want to give f
 
 
 <h3 align="center">Good Taxi Service for Good People</h3>
-<h3 align="center"><img src="/Users/romanova/Downloads/main2.png"/></h3>
+<h3 align="center"><img src="img/main2.png"/></h3>
