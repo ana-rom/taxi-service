@@ -31,7 +31,6 @@ The benefit of using this structure in our web-app is that - each tier can be up
   * Maven ([v.3.8.0 or later](https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin))
 * Database: 
   * MySQL ([v. 8.0.22](https://dev.mysql.com/downloads/mysql/) community)
-  * DBMS (e.g. [Workbench](https://dev.mysql.com/downloads/workbench/))
 * IDE: IntelliJ Ultimate
 
 ### 🔎 Functionalities
@@ -55,7 +54,7 @@ The benefit of using this structure in our web-app is that - each tier can be up
 You need only 3 steps to run this web-app!</br>
 
 1️⃣ Initialize your project by creating a fork (i.e. clone it from GitHub) and then running the [init_db.sql](src/main/resources/init_db.sql) file in your DBMS. 
-You can easily use Workbench or any other DBMS.</br>
+You can easily use Workbench or any other visual tool.</br>
 2️⃣ Create a connection to you DBMS by filling out all needed fields in [ConnectionUtil](src/main/java/taxi/util/ConnectionUtil.java) file from util package.</br>
 3️⃣ Configure your local Tomcat server. It is recommended to use Tomcat v.9.0.50.</br>
 🎉 Run the application!
